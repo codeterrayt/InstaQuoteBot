@@ -4,7 +4,7 @@
 InstaQuoteBot is a Python script designed to automate the process of generating and posting quote images to Instagram. It utilizes the InstaBot Python module to handle Instagram interactions. The script prompts the user to log in, fetches quotes and authors from an API, generates images using two different templates in an alternating fashion, and finally posts them to Instagram with default captions and hashtags.
 
 ## Demo Video
-https://github.com/codeterrayt/InstaQuoteBot/assets/76623307/142a8439-8500-4cdb-a7d0-cc396aaeabba
+https://github.com/codeterrayt/InstaQuoteBot/assets/76623307/6d7c8e4e-a57c-4677-a9ed-a7c8fcea1d68
 
 ## Requirements
 - Python 3.x
