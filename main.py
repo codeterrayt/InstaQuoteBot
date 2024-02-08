@@ -1,4 +1,3 @@
-# import requests module
 import requests
 from GeneateImage import GenerateImage
 from instabot import Bot
