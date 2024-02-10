@@ -9,7 +9,7 @@ https://github.com/codeterrayt/InstaQuoteBot/assets/76623307/6d7c8e4e-a57c-4677-
 ## Requirements
 - Python 3.x
 - InstaBot Python module
-- Image Processing / Editing libraries (e.g., Pillow)
+- Image Processing / Editing library (e.g., Pillow)
 
 ## Installation
 1. Clone this repository:
